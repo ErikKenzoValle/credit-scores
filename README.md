@@ -43,7 +43,7 @@ mvn clean install
 
 Com as dependências configuradas, você pode rodar o projeto da seguinte maneira:
 
-Dentro do IntelliJ IDEA, você pode simplesmente rodar a classe principal, que está em `src/main/java/com/erik/contactsmanager/CreditScoresApplication.java`. Você pode clicar com o botão direito e escolher a opção Run 'ContactsManagerApplication', é um botão play verde.
+Dentro do IntelliJ IDEA, você pode simplesmente rodar a classe principal, que está em `src/main/java/com/erik/creditscores/CreditScoresApplication.java`. Você pode clicar com o botão direito e escolher a opção Run 'ContactsManagerApplication', é um botão play verde.
 
 Ou pelo terminal:
 
