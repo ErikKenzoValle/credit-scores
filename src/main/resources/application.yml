@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: credit-scores
+
+weather:
+  api:
+    url: https://api.openweathermap.org/data/2.5
+    key: 59eee963a34f37a1674f2ad2ef895dae
